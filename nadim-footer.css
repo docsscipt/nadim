@@ -1,0 +1,205 @@
+#content .panel-heading:nth-child(1), #content .panel-heading:nth-child(2), #content .panel-heading:nth-child(3), #content .panel-heading:nth-child(4), #content .panel-heading:nth-child(5), #content .panel-heading:nth-child(6), #content .panel-heading:nth-child(7), #content .panel-heading:nth-child(8) {
+    margin-top: -70px;
+padding: 10px;
+  }
+
+.bank {
+  text-align: center;
+  width: 145px !important;
+  height: 74px !important;
+  padding: 0px !important;
+  background-color: rgba(0, 0, 0, 0) !important;
+  border: none !important;
+  -webkit-border-radius: 0px !important;
+  -moz-border-radius: 0px !important;
+  -ms-border-radius: 0px !important;
+  -o-border-radius: 0px !important;
+  border-radius: 0px !important;
+  margin-left: 0px;
+}
+
+
+
+.owl-wrapper .owl-item:nth-child(1) .bank .online {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/BCA-ON_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .online {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/BNI-ON_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .online {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/BRI-ON_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .online {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/CIMB-ON_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .online {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/DANA-ON_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(6) .bank .online {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/DANAMON-ON_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(7) .bank .online {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/GOPAY-ON_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(8) .bank .online {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/MANDIRI-ON_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(9) .bank .online {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/OVO-ON_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(10) .bank .online {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/BSI-ON_NEW.gif") 0px 0px no-repeat !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(1) .bank .offline {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/BCA-OFF_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .offline {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/BNI-OFF_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .offline {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/BRI-OFF_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .offline {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/CIMB-OFF_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .offline {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/DANA-OFF_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(6) .bank .offline {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/DANAMON-OFF_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(7) .bank .offline {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/GOPAY-OFF_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(8) .bank .offline {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/MANDIRI-OFF_NEW.gif") 0px 0px no-repeat !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(9) .bank .offline {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/OVO-OFF_NEW.gif") 0px 0px no-repeat !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(10) .bank .offline {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/BSI-OFF_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(1) .bank .trouble {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/BCA-GG_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(2) .bank .trouble {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/BNI-GG_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(3) .bank .trouble {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/BRI-GG_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(4) .bank .trouble {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/CIMB-GG_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(5) .bank .trouble {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/DANA-GG_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(6) .bank .trouble {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/DANAMON-GG_NEW.gif") 0px 0px no-repeat !important;
+}
+
+
+.owl-wrapper .owl-item:nth-child(7) .bank .trouble {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/GOPAY-GG_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(8) .bank .trouble {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/MANDIRI-GG_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(9) .bank .trouble {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/OVO-GG_NEW.gif") 0px 0px no-repeat !important;
+}
+
+.owl-wrapper .owl-item:nth-child(10) .bank .trouble {
+  width: 168px !important;
+  height: 74px !important;
+  background: url("https://cdn.d32jers.com/djarum/images/bank/BSI-GG_NEW.gif") 0px 0px no-repeat !important;
+}
